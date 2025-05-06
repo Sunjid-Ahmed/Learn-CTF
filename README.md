@@ -100,7 +100,7 @@ MIT License. Feel free to use and contribute!
 
 ## 🧑‍💻 Maintainers
 
-Maintained by [Your Name](https://github.com/yourusername) and contributors.
+Maintained by [Your Name](https://github.com/Sunjid-Ahmed) and contributors.
 
 ---
 
