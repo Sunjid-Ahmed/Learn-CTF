@@ -69,6 +69,7 @@ We provide install scripts and usage guides for key CTF tools. Visit the [`/tool
 | hexed.it | [https://hexed.it/](https://hexed.it/) |
 | regex101 | [https://regex101.com/](https://regex101.com/) |
 | stego online | [https://www.futureboy.us/stegano/](https://www.futureboy.us/stegano/) |
+[Google Docs Guide](https://docs.google.com/document/d/15ZKh6OPh0ZnWcpuFAFNs8qgGv3RysofE4lkBWKU8kdE/edit?usp=sharing)
 
 ---
 
